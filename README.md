@@ -1,2 +1,2 @@
 # deltaHacks
-Created a server to transfer images or any files
+Competition at McMaster University
